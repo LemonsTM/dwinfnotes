@@ -1,0 +1,2 @@
+print("Obfuscate my script jesus")
+print("10,000,000 Notes Added)
